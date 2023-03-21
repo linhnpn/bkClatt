@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "201459656752",
+    "firebase_url": "https://cleaninghouseservice-23aa3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cleaninghouseservice-23aa3",
+    "storage_bucket": "cleaninghouseservice-23aa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201459656752:android:d5d10d3765e922727fa5f5",
+        "android_client_info": {
+          "package_name": "com.example.swd_project_clatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201459656752-h28lmab1bqq0rjhpp3ah76nbla1atulp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp8qEE0fo8Koaab-G9lJ5OcyVfUXnu-sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201459656752-4bophf04lnn1dnmu89eajt5g7vvcfm20.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201459656752-b98iejl7utcr60bdn3knirp0mjbomrnd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.swdProjectClatt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
